@@ -1,7 +1,7 @@
 # Day 17 - Track 1 - Product Discovery: Finding and Validating Pain Points
 # Thông tin cá nhân và nhóm
 **Tên nhóm:** BLBD 
-**Thành viên:**
+**Thành viên:** Nguyễn Đình Anh Đức
 | STT | Họ và tên | Mã học viên |
 |---|---|---|
 | 1 | Lê Duy Bảo | 2A202602749 |
